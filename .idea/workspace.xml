@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b23743c4-8bb8-4bea-8732-d429463213c1" name="Default Changelist" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eJKum0NrqqO4H7fTLQJZtZXINn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Sql_36_Shuffle_partition">
+    <configuration name="ReadPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aziz.TestRDD.ReadPar" />
+      <module name="SparkTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aziz.TestRDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sql_14_DATE_Formatting_DataFrame_Sql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manish.SparkSql.Sql_14_DATE_Formatting_DataFrame_Sql" />
+      <module name="SparkTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manish.SparkSql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sql_25_UDF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manish.SparkSql.Sql_25_UDF" />
+      <module name="SparkTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manish.SparkSql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sql_36_Shuffle_partition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aziz.TestRDD.Sql_36_Shuffle_partition" />
+      <module name="SparkTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aziz.TestRDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="readJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aziz.TestRDD.readJSON" />
+      <module name="SparkTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aziz.TestRDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sql_36_Shuffle_partition" />
+        <item itemvalue="Application.Sql_25_UDF" />
+        <item itemvalue="Application.ReadPar" />
+        <item itemvalue="Application.readJSON" />
+        <item itemvalue="Application.Sql_14_DATE_Formatting_DataFrame_Sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b23743c4-8bb8-4bea-8732-d429463213c1" name="Default Changelist" comment="" />
+      <created>1594034480480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594034480480</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1594324133828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594324133828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1594324525352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594324525352</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <created>1594328002206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594328002206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First commit">
+      <created>1594329313847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594329313847</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First commit">
+      <created>1594330043016</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594330043016</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1594115319277">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.501@0.0.1366.501" timestamp="1594115319277" />
+    <state x="488" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1594203583215">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="488" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.501@0.0.1366.501" timestamp="1594203583215" />
+    <state x="466" y="119" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594116249536">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="466" y="119" width="433" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.501@0.0.1366.501" timestamp="1594116249536" />
+    <state x="441" y="114" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594203695933">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="441" y="114" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.501@0.0.1366.501" timestamp="1594203695933" />
+    <state x="463" y="0" key="FileChooserDialogImpl" timestamp="1594325713124">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="463" y="0" key="FileChooserDialogImpl/0.0.1366.501@0.0.1366.501" timestamp="1594325713124" />
+    <state x="552" y="148" key="Github.ShareDialog" timestamp="1594325974489">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="552" y="148" key="Github.ShareDialog/0.0.1366.501@0.0.1366.501" timestamp="1594325974489" />
+    <state x="441" y="0" key="Github.UntrackedFilesDialog" timestamp="1594323555964">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="441" y="0" key="Github.UntrackedFilesDialog/0.0.1366.501@0.0.1366.501" timestamp="1594323555964" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1594325476080">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.501@0.0.1366.501" timestamp="1594325476080" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1594325476080">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.501@0.0.1366.501" timestamp="1594325476080" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1594325476080">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.501@0.0.1366.501" timestamp="1594325476080" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1594325476080">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.501@0.0.1366.501" timestamp="1594325476080" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594330474298">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.501@0.0.1366.501" timestamp="1594330474298" />
+    <state x="513" y="120" key="VCS.EditChangelistDialog" timestamp="1594325942002">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="513" y="120" key="VCS.EditChangelistDialog/0.0.1366.501@0.0.1366.501" timestamp="1594325942002" />
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2" timestamp="1594330397672">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="275" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.501@0.0.1366.501" timestamp="1594330397672" />
+    <state x="488" y="112" key="git4idea.rebase.GitRebaseDialog" timestamp="1594329528986">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="488" y="112" key="git4idea.rebase.GitRebaseDialog/0.0.1366.501@0.0.1366.501" timestamp="1594329528986" />
+    <state x="484" y="157" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594329389110">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="484" y="157" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.501@0.0.1366.501" timestamp="1594329389110" />
+    <state x="65" y="0" key="new project wizard" timestamp="1594327469278">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.501@0.0.1366.501" timestamp="1594327469278" />
+    <state x="339" y="106" key="run.anything.popup" timestamp="1594277580843">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="339" y="106" key="run.anything.popup/0.0.1366.501@0.0.1366.501" timestamp="1594277580843" />
+    <state x="346" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1594323999326">
+      <screen x="0" y="0" width="1366" height="501" />
+    </state>
+    <state x="346" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1366.501@0.0.1366.501" timestamp="1594323999326" />
+  </component>
+</project>
